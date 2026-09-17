@@ -24,4 +24,4 @@ jobs:
       - uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ghcr.io/dataleads/tech-stack-detector-mcp:latest
+          tags: ghcr.io/dataleadspro/tech-stack-detector-mcp:latest
