@@ -1,0 +1,8 @@
+[
+  {
+    "name": "tech",
+    "method": "POST",
+    "path": "/tech",
+    "description": "V1 Tech"
+  }
+]
